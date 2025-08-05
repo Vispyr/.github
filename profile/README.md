@@ -1,3 +1,5 @@
+![Vispyr](https://raw.githubusercontent.com/vispyr/.github/main/profile/assets/logo.svg)
+
 # What Vispyr is
 
 A one-command solution to get continuous profiling and comprehensive monitoring for applications running on EC2 instances with proper network security and zero manual configuration.
