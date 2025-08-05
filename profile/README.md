@@ -35,7 +35,7 @@ The application to be instrumented and monitored must be running on an EC2 insta
 
 # How to remove
 
-1. Navigate to your local [Vispir CLI](https://github.com/Vispyr/vispyr-cli "Go to CLI page") directory and run `npm start -- destroy`.
+1. Navigate to your local [Vispyr CLI](https://github.com/Vispyr/vispyr-cli "Go to CLI page") directory and run `npm start -- destroy`.
 2. Run `./removeAgent.sh`.
 3. Delete the `vispyr_agent` folder and its contents from your app.
 
