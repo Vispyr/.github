@@ -13,7 +13,9 @@ Vispyr is composed of a backend and an agent. The [agent](https://github.com/Vis
 * Scatterplot graph and table for distributed tracing
 * A trace waterfall panel for analizing any selected trace
 
-[High level Diagram]
+<div align="center">
+  <img width="500" height="346" alt="Image" src="https://github.com/user-attachments/assets/771e52d1-81f2-4c5b-992e-b77c82d759e0" />
+</div>
 
 *Vispyr currently supports only NodeJS applications*
 
