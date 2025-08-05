@@ -1,7 +1,7 @@
 ![Vispyr](https://raw.githubusercontent.com/vispyr/.github/main/profile/assets/logo.png)
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/vispyr/.github/main/profile/assets/logo.png" alt="Organization Logo" width="200"/>
+  <img width="1350" height="1575" alt="Image" src="https://github.com/user-attachments/assets/d1786fed-47f8-46d7-9f73-bd421ed63ab8" />
 </div>
 
 # What Vispyr is
