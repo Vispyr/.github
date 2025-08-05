@@ -4,7 +4,7 @@
 
 # What Vispyr is
 
-A one-command solution to get continuous profiling and comprehensive monitoring for applications running on EC2 instances with proper network security and zero manual configuration. By automating the deployment and configuration of our observability stack, we hope to introduce and facilitate the adoption of continuous profiling as an important complementary signal to metrics and traces.
+A one-command solution to get continuous profiling and comprehensive monitoring for applications running on EC2 instances with proper network security and zero manual configuration. By automating the deployment and configuration of the observability stack, we help facilitate the adoption of continuous profiling as an important observability signal, complementary to metrics and traces.
 
 Vispyr is composed of a backend and an agent. The [agent](https://github.com/Vispyr/vispyr-agent "Go to Vispyr agent") attaches to the application and generates telemetry data that is sent to [Vispyr's backend](https://github.com/Vispyr/vispyr-backend "Go to Vispyr backend"), which collects and stores this data while providing an easy-to-use dashboard where the user can see and correlate:
 * CPU and Memory utilization
