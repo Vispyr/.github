@@ -1,5 +1,3 @@
-![Vispyr](https://raw.githubusercontent.com/vispyr/.github/main/profile/assets/logo.png)
-
 <div align="left">
   <img width="225" height="263" alt="Logo" src="https://github.com/user-attachments/assets/d1786fed-47f8-46d7-9f73-bd421ed63ab8" />
 </div>
@@ -12,23 +10,16 @@ A one-command solution to get continuous profiling and comprehensive monitoring 
 
 # Prerequisites
 
-* The instrumented application must be running on an EC2 instance. 
+The application to be instrumented and monitered must be running on an EC2 instance. 
 
 # How to install
 
-Download the CLI tools by cloning our [CLI repository](https://github.com/Vispyr/vispyr-cli "Go to CLI page") and follow the instructions there.
+1. Clone our [CLI repository](https://github.com/Vispyr/vispyr-cli "Go to CLI page") and follow the instructions there to spin up Vispyr's backend in your AWS environment.
+2. Copy the entire `vispyr_agent` folder to the root folder of your application.
+3. Modify your `npm start` script to include `./deployAgent.sh`.
+4. Re-run your application with these modifications made.
+5. Access Vispyr's dashboard and watch your application's telemetry data through the URL generated in step 1.
 
----
-# I don't understand land
-* Copy the entire `vispyr_agent` folder to the root folder of your application EC2 instance
-* Modify your npm start script to include `./deployAgent.sh`
-* Their app automatically sends telemetry to your observability backend
-
-* Move folder to repo
-* Misc (secrets management, existing TLS certs, etc)
-* Push & deploy with CLI
-
----
 # FAQ
 
 # Learn more
