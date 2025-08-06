@@ -1,7 +1,3 @@
-<div align="left">
-  <img width="225" height="263" alt="Logo" src="https://raw.githubusercontent.com/vispyr/.github/main/profile/assets/logo.png" />
-</div>
-
 # What Vispyr is
 
 A one-command solution to get continuous profiling and comprehensive monitoring for applications running on EC2 instances with proper network security and zero manual configuration. By automating the deployment and configuration of the observability stack, we help facilitate the adoption of continuous profiling as an important observability signal, complementary to metrics and traces.
@@ -25,19 +21,19 @@ Vispyr is composed of a [backend](https://github.com/Vispyr/vispyr-backend "Go t
 
 The application to be instrumented and monitored must be running on an EC2 instance. 
 
-# How to install
+# How to use
 
-1. Clone our [CLI repository](https://github.com/Vispyr/vispyr-cli "Go to CLI page") and follow the instructions there to spin up Vispyr's backend in your AWS environment.
-2. Copy the entire `vispyr_agent` folder to the root folder of your application.
-3. Modify your `npm start` script to include `./deployAgent.sh`.
-4. Re-run your application with these modifications made.
-5. Access Vispyr's dashboard and watch your application's telemetry data through the URL generated in step 1.
+### AWS deployment
 
-# How to remove
+Go to the [CLI repository]() page and follow the instructions under "Installation" section. Vispyr app will be deployed automatically on a newly created EC2 instance and a URL will be generated for accessing Vispyr's dashboard.
 
-1. Navigate to your local [Vispyr CLI](https://github.com/Vispyr/vispyr-cli "Go to CLI page") directory and run `npm start -- destroy`.
-2. Run `./removeAgent.sh`.
-3. Delete the `vispyr_agent` folder and its contents from your app.
+### Deletion
+
+Go to the [CLI repository]() page and follow the instructions under "Teardown" section. Vispyr app will be destroyed and all infrastructe created will be eliminated.
+
+### Demonstration
+
+Go to the [Demo App repository]() page, clone it and run `docker compose up`.
 
 # Learn more
 
