@@ -21,19 +21,11 @@ Vispyr is composed of a [backend](https://github.com/Vispyr/vispyr-backend "Go t
 
 The application to be instrumented and monitored must be running on an EC2 instance. 
 
-# How to use
+# Using Vispyr
 
-### AWS deployment
-
-Go to the [CLI repository]() page and follow the instructions under "Installation" section. Vispyr app will be deployed automatically on a newly created EC2 instance and a URL will be generated for accessing Vispyr's dashboard.
-
-### Deletion
-
-Go to the [CLI repository]() page and follow the instructions under "Teardown" section. Vispyr app will be destroyed and all infrastructe created will be eliminated.
-
-### Demonstration
-
-Go to the [Demo App repository]() page, clone it and run `docker compose up`.
+* To deploy it in AWS please use our [CLI](https://github.com/Vispyr/vispyr-cli "Go to CLI page").
+* You also delete it and clear all its infrastructe with the [CLI](https://github.com/Vispyr/vispyr-cli "Go to CLI page").
+* For local demonstration of Vispyr functionality we provide the [Demo App]().
 
 # Learn more
 
