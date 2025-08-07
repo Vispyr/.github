@@ -24,7 +24,7 @@ The application to be instrumented and monitored must be running on an EC2 insta
 # Using Vispyr
 
 * To deploy and teardown Vispyr in AWS, please use our [CLI](https://github.com/Vispyr/vispyr-cli "Go to CLI page").
-* To see out observability stack and how its components are integrated, visit our [backend page](https://github.com/Vispyr/vispyr-backend "Go to backend page").
+* To see our observability stack and how its components are integrated, visit our [backend page](https://github.com/Vispyr/vispyr-backend "Go to backend page").
 * For a demonstration of Vispyr's functionality in your local environment, we provide the [Demo App](https://github.com/Vispyr/vispyr-demo-app "Go to demo-app page").
 
 # Learn more
