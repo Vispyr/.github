@@ -7,7 +7,7 @@ Vispyr is composed of a [backend](https://github.com/Vispyr/vispyr-backend "Go t
 * P99 Latency metrics by application routes
 * Flamegraph and table of continuous profiling data
 * Scatterplot graph and table for distributed tracing
-* A trace waterfall panel for analizing any selected trace
+* A trace waterfall panel for analyzing any selected trace
 
 # Architecture
 <div align="center">
