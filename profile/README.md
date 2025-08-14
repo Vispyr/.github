@@ -12,10 +12,10 @@ Vispyr is composed of a [backend](https://github.com/Vispyr/vispyr-backend "Go t
 # Architecture
 <div align="center">
   <img width="650" height="449" alt="Image" src="https://raw.githubusercontent.com/vispyr/.github/main/profile/assets/diagram.png" />
-  ![Architecture Overview](https://github.com/user-attachments/assets/Basic_Architecture_dark_mode.svg)
+  ![Architecture Overview](assets/Basic_Architecture_dark_mode.svg)
 </div>
 
-  ![Architecture Overview](https://github.com/user-attachments/assets/Basic_Architecture_dark_mode.svg)
+  ![Architecture Overview](assets/Basic_Architecture_dark_mode.svg)
 
 *Vispyr currently supports only NodeJS applications*
 
