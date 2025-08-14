@@ -10,12 +10,8 @@ Vispyr is composed of a [backend](https://github.com/Vispyr/vispyr-backend "Go t
 * A trace waterfall panel for analyzing any selected trace
 
 # Architecture
-<div align="center">
-  <img width="650" height="449" alt="Image" src="https://raw.githubusercontent.com/vispyr/.github/main/profile/assets/diagram.png" />
-  ![Architecture Overview](assets/Basic_Architecture_dark_mode.svg)
-</div>
 
-  ![Architecture Overview](assets/Basic_Architecture_dark_mode.svg)
+![Architecture Overview](assets/Basic_Architecture_dark_mode.svg)
 
 *Vispyr currently supports only NodeJS applications*
 
