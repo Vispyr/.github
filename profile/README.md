@@ -1,4 +1,4 @@
-# What Vispyr is
+# Overview
 
 A one-command solution to get continuous profiling and comprehensive monitoring for applications running on EC2 instances with proper network security and zero manual configuration. By automating the deployment and configuration of the observability stack, we help facilitate the adoption of continuous profiling as an important observability signal, complementary to metrics and traces.
 
@@ -29,5 +29,5 @@ The application to be instrumented and monitored must be running on an EC2 insta
 
 # Learn more
 
-For a more detailed and comprehensive description of Vispyr, along the motivation for its creation, please read our [case study](https://vispyr.com "Go to Case Study").
+For a more detailed and comprehensive description of Vispyr, along with the motivation for its creation, please read our [case study](https://vispyr.com "Go to Case Study").
 
