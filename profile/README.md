@@ -11,7 +11,10 @@ Vispyr is composed of a [backend](https://github.com/Vispyr/vispyr-backend "Go t
 
 # Architecture
 
-![Architecture Overview](assets/architecture_diagram.svg)
+<div align="center">
+  <img src="assets/architecture_diagram.svg" alt="Collector Overview" width="600">
+</div>
+
 
 *Vispyr currently supports only NodeJS applications*
 
