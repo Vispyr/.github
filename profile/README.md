@@ -12,7 +12,7 @@ Vispyr is composed of a [backend](https://github.com/Vispyr/vispyr-backend "Go t
 # Architecture
 
 <div align="center">
-  <img src="assets/architecture_diagram.svg" alt="Collector Overview" width="600">
+  <img src="assets/architecture_diagram2.svg" alt="Collector Overview" width="600">
 </div>
 
 
